@@ -1,11 +1,10 @@
 # 💫 About Me:
-## Olá👋! Eu sou RodrigoVieira511
-
-- 🔭 Atualmente não trabalho 
-- 🌱 Estudando HTML , CSS e JAVASCRIPT
-- 👯 Estou procurando emprego front-end
-- 📫 Meu email para contrato é : rodrigobete07@gmail.com
-- 😄 Pronomes: ele/dele
+##  Hello👋! I'm RodrigoVieira511
+- 🔭 I currently don't work
+- 🌱 Studying HTML, CSS and JAVASCRIPT
+- 👯 I'm looking for a front-end job
+- 📫 My contract email is: rodrigobete07@gmail.com
+- 😄 pronouns: he/his
 <br>
 
 
